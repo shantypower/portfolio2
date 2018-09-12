@@ -2427,7 +2427,8 @@ header .logo a {
 .contact-info h5 {
 	color: #FF0077;
 }
-.contact__email {
+.contact__email,
+.contact__link {
   color: #6e6e6e;
 }
 /**
